@@ -1,0 +1,14 @@
+Question: Quels sont les horaires d'ouverture de l'entreprise ?
+Réponse: Notre entreprise est ouverte du lundi au vendredi de 9h00 à 18h00. Nous sommes fermés les week-ends et jours fériés.
+
+Question: Comment contacter le service client ?
+Réponse: Vous pouvez contacter notre service client par téléphone au 01 23 45 67 89 ou par email à service.client@entreprise.com. Notre équipe est disponible pendant les heures d'ouverture pour répondre à toutes vos questions.
+
+Question: Quelle est la politique de retour des produits ?
+Réponse: Tous les produits peuvent être retournés dans les 30 jours suivant l'achat, à condition qu'ils soient dans leur état d'origine avec leur emballage. Les frais de retour sont à la charge du client, sauf en cas de produit défectueux.
+
+Question: Comment puis-je suivre ma commande ?
+Réponse: Vous pouvez suivre votre commande en vous connectant à votre compte client sur notre site web. Vous recevrez également des mises à jour par email concernant l'état de votre commande.
+
+Question: Proposez-vous des remises pour les achats en gros ?
+Réponse: Oui, nous offrons des remises pour les achats en gros. Le pourcentage de remise dépend du volume de votre commande. Veuillez contacter notre service commercial au 01 23 45 67 90 pour plus d'informations.

@@ -1,0 +1,29 @@
+Question: Quels sont les types de produits que vous proposez?
+Réponse: Notre entreprise propose une large gamme de produits électroniques incluant des ordinateurs portables, des smartphones, des tablettes, des accessoires informatiques et des périphériques. Nous nous spécialisons dans les produits de haute qualité des marques leaders du marché.
+
+Question: Quelle est la durée de garantie de vos produits?
+Réponse: Tous nos produits sont couverts par une garantie standard de 2 ans. Nous proposons également une extension de garantie optionnelle qui peut prolonger cette période jusqu'à 5 ans selon le type de produit. Les conditions spécifiques peuvent varier selon les fabricants.
+
+Question: Est-ce que vous proposez un service de livraison express?
+Réponse: Oui, nous proposons un service de livraison express qui garantit la livraison le jour suivant pour toute commande passée avant 14h. Ce service est disponible pour un supplément de 15€. Notre livraison standard prend généralement entre 3 à 5 jours ouvrables.
+
+Question: Comment fonctionne le service après-vente?
+Réponse: Notre service après-vente est joignable par téléphone au 01 23 45 67 91 ou par email à sav@entreprise.com. En cas de problème avec un produit, vous pouvez nous contacter directement ou vous rendre dans l'une de nos boutiques physiques avec votre preuve d'achat. Nous prenons en charge les réparations couvertes par la garantie sans frais supplémentaires.
+
+Question: Proposez-vous des formations pour l'utilisation de vos produits?
+Réponse: Oui, nous proposons des sessions de formation individuelles ou en groupe pour tous nos produits complexes. Ces formations sont gratuites pour les 30 premiers jours suivant l'achat. Après cette période, des sessions payantes sont disponibles au tarif de 50€ par heure. Réservation possible sur notre site web ou en nous contactant directement.
+
+Question: Avez-vous un programme de fidélité?
+Réponse: Oui, notre programme de fidélité "Premium Client" vous permet de cumuler des points à chaque achat. Pour chaque euro dépensé, vous recevez 1 point. Ces points peuvent être échangés contre des remises, des produits gratuits ou des services exclusifs. L'inscription au programme est gratuite et peut se faire en magasin ou sur notre site web.
+
+Question: Comment puis-je annuler une commande?
+Réponse: Vous pouvez annuler une commande non expédiée en vous connectant à votre compte client ou en contactant notre service client dans les 24 heures suivant votre achat. Une fois la commande expédiée, l'annulation n'est plus possible, mais vous pourrez retourner le produit selon notre politique de retour standard.
+
+Question: Quelles sont les méthodes de paiement acceptées?
+Réponse: Nous acceptons les paiements par carte bancaire (Visa, Mastercard, American Express), PayPal, virement bancaire et paiement en 3 ou 4 fois sans frais (pour les achats supérieurs à 200€). Les chèques ne sont plus acceptés depuis janvier 2023.
+
+Question: Proposez-vous un service d'installation à domicile?
+Réponse: Oui, nous proposons un service d'installation à domicile pour certains de nos produits comme les grands écrans, les systèmes audio complexes et les équipements réseau. Ce service est disponible à partir de 75€, selon la complexité de l'installation et votre localisation géographique.
+
+Question: Avez-vous un programme de reprise d'anciens appareils?
+Réponse: Oui, nous avons un programme de reprise d'anciens appareils qui vous permet de recevoir une remise sur votre nouvel achat. La valeur de la remise dépend de l'état et de l'âge de votre ancien appareil. Nous nous occupons également du recyclage écologique des appareils qui ne peuvent plus être utilisés, conformément aux réglementations environnementales en vigueur.

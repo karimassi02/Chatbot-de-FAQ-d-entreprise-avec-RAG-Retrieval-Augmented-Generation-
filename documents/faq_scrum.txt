@@ -1,0 +1,14 @@
+Question : Qu'est-ce que la méthode Scrum ?
+Réponse : La méthode Scrum est un cadre de gestion de projet agile qui permet de développer des produits de manière itérative et incrémentale. Elle repose sur des rôles, des événements et des artefacts pour favoriser la collaboration, la transparence et l'adaptation continue.
+
+Question : Quels sont les rôles principaux dans une équipe Scrum ?
+Réponse : Les trois rôles principaux sont le Product Owner (responsable du produit), le Scrum Master (facilitateur du processus Scrum) et l'Équipe de développement (chargée de produire les livrables).
+
+Question : Qu'est-ce qu'un Sprint dans Scrum ?
+Réponse : Un Sprint est une itération de travail d'une durée fixe (généralement 1 à 4 semaines) au cours de laquelle une équipe Scrum crée un incrément de produit utilisable et potentiellement livrable.
+
+Question : Quelle est la différence entre le Product Backlog et le Sprint Backlog ?
+Réponse : Le Product Backlog est la liste priorisée de toutes les fonctionnalités, améliorations et corrections à apporter au produit. Le Sprint Backlog est un sous-ensemble du Product Backlog, contenant les éléments sélectionnés pour un Sprint donné.
+
+Question : À quoi sert la réunion de rétrospective de Sprint ?
+Réponse : La rétrospective de Sprint permet à l’équipe Scrum de réfléchir à son fonctionnement pendant le Sprint écoulé et d’identifier des axes d’amélioration pour les prochains Sprints.
