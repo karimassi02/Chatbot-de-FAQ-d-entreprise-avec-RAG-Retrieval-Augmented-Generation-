@@ -76,15 +76,15 @@ streamlit run Audio.py
     └── test_recording.mp3  # Exemple d'enregistrement audio
 ```
 
-## Tutoriels et ressources
+## TPs
 
 Ces liens pointent vers des ressources Colab qui ont servi au développement de ce projet:
 
-1. [Introduction à RAG](https://colab.research.google.com/drive/13DjLiP0d3Z9s2mhy1zFcY4xfbbvmL7OV?usp=sharing)
-2. [ChromaDB et vectorisation](https://colab.research.google.com/drive/1VzlN1MPmu-MK1y0lyN07G_hepC_zk_fC?usp=sharing)
-3. [LangChain et chaînes de traitement](https://colab.research.google.com/drive/1HJ2R7cG8AvL8zqmMm76eMFdFEzXiZqP4?usp=sharing)
-4. [Intégration avec Whisper](https://colab.research.google.com/drive/1IC_90iHcmsTqBAo4JqKTn89Hv-LFEpvT?usp=sharing)
-5. [Optimisation des prompts](https://colab.research.google.com/drive/14Gh1wc6OUYafH-G072XffLCBWzzQkRHM?usp=sharing)
+1.(https://colab.research.google.com/drive/13DjLiP0d3Z9s2mhy1zFcY4xfbbvmL7OV?usp=sharing)
+2.(https://colab.research.google.com/drive/1VzlN1MPmu-MK1y0lyN07G_hepC_zk_fC?usp=sharing)
+3.(https://colab.research.google.com/drive/1HJ2R7cG8AvL8zqmMm76eMFdFEzXiZqP4?usp=sharing)
+4.(https://colab.research.google.com/drive/1IC_90iHcmsTqBAo4JqKTn89Hv-LFEpvT?usp=sharing)
+5.(https://colab.research.google.com/drive/14Gh1wc6OUYafH-G072XffLCBWzzQkRHM?usp=sharing)
 
 ## Améliorations futures
 

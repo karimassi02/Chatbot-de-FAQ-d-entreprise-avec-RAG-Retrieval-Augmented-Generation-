@@ -17,7 +17,7 @@ from langchain.memory import ConversationBufferMemory
 # Configuration des clés API
 OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY", "")
 os.environ["OPENAI_API_KEY"] = OPENAI_API_KEY
-# Ajout de la clé API Mistral (à remplacer par votre propre clé)
+# Ajout de la clé API Mistral 
 MISTRAL_API_KEY = os.environ.get("MISTRAL_API_KEY", "")
 os.environ["MISTRAL_API_KEY"] = MISTRAL_API_KEY
 
