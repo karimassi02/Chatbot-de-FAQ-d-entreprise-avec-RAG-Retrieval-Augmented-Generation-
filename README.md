@@ -107,3 +107,6 @@ TPs:
 4: https://colab.research.google.com/drive/1IC_90iHcmsTqBAo4JqKTn89Hv-LFEpvT?usp=sharing
 
 5: https://colab.research.google.com/drive/14Gh1wc6OUYafH-G072XffLCBWzzQkRHM?usp=sharing
+
+
+j'ai des soucis avec le déploiement je réessaie demain (26/05)

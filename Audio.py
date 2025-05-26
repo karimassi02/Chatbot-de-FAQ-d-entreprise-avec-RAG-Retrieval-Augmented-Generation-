@@ -15,6 +15,7 @@ from langchain_core.prompts import PromptTemplate
 from langchain.memory import ConversationBufferMemory
 
 # Configuration des clés API
+#le projet se lance correctement lorsque j'avais les clés API définies ici
 OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY", "")
 os.environ["OPENAI_API_KEY"] = OPENAI_API_KEY
 # Ajout de la clé API Mistral 
