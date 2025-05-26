@@ -15,10 +15,10 @@ from langchain_core.prompts import PromptTemplate
 from langchain.memory import ConversationBufferMemory
 
 # Configuration des clés API
-OPENAI_API_KEY = "REMOVED"
+OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY", "")
 os.environ["OPENAI_API_KEY"] = OPENAI_API_KEY
 # Ajout de la clé API Mistral (à remplacer par votre propre clé)
-MISTRAL_API_KEY = "REMOVED"
+MISTRAL_API_KEY = os.environ.get("MISTRAL_API_KEY", "")
 os.environ["MISTRAL_API_KEY"] = MISTRAL_API_KEY
 
 # Initialisation du client OpenAI
